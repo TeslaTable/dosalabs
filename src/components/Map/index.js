@@ -30,8 +30,8 @@ export default function index() {
                         <div>
                             <p className='timignHeading'>Opening Time</p>
                             <p className='timing'>Monday to Saturday</p>
-                            <p className='timing'>11:00 AM to 2:30 AM</p>
-                            <p className='timing'>5:30 PM to 9:30 PM</p>
+                            <p className='timing'>11:00 AM to 2:00 AM</p>
+                            <p className='timing'>5:00 PM to 9:00 PM</p>
                         </div>
                     </div>
                 </div>
